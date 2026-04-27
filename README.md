@@ -46,7 +46,7 @@ Gerencie todos os clientes da empresa, com histórico de ordens e dados de conta
 Crie, acompanhe e atualize ordens de serviço, registrando status e detalhes de cada atendimento.
 
 ### Impressão da erdem de Serviço
-<img width="747" height="620" alt="image" src="https://github.com/user-attachments/assets/b75b42cc-a3a5-4749-b5cb-6bce07bf77af" />
+<img width="1343" height="543" alt="image" src="https://github.com/user-attachments/assets/552a8a6d-dcd1-473b-8a3e-c504adeb015d" />
 Gerar PDF da Ordem de Serviço
 
 ---
