@@ -1,6 +1,6 @@
 
 # 🚀 Inova Gestão de Ordens de Serviço
-**Observação:** Este repositório foi criado para fins de visualização. O repositório original é restrito, contendo o histórico completo de desenvolvimento e versões do projeto.
+**Observação:** Este repositório é publico para fins de visualização, existe o repositorio privado contendo o histórico completo de desenvolvimento e versões do projeto.
 
 **Solução simples para organizar e controlar ordens de serviço para serralheria Inova.**
 
